@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 dataset/
-columns.json
+columns.json/
 bhp.csv
+data/
 
 
 # C extensions
