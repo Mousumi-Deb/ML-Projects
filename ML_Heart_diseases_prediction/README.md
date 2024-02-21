@@ -5,7 +5,7 @@
 This project aims to predict cancer disease using machine learning techniques. Cancer is a complex disease characterized by the uncontrolled growth and spread of abnormal cells. Early detection of cancer can significantly improve treatment outcomes and patient survival rates. This project leverages machine learning algorithms to predict the likelihood of cancer based on relevant features.
 
 ## Dataset
-The dataset used for this project is the [Heart Disease UCI dataset](https://www.kaggle.com/datasets/bhagyashreebai/heart-diseases-uci) from the UCI Machine Learning Repository. It contains various attributes such as age, sex, chest pain type, blood pressure, cholesterol levels, and other factors related to heart health.
+The dataset used for this project is the [Heart Disease UCI dataset](https://www.kaggle.com/datasets/bhagyashreebai/heart-diseases-uci) from the UCI Machine Learning Repository. It contains various attributes such as age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, and other factors related to heart health.
 
 ## Project Structure
 1. **Data Preprocessing**: The dataset used for training the model is preprocessed to handle missing values, outliers, and feature scaling. Data preprocessing techniques ensure that the input data is in a suitable format for machine learning algorithms.
