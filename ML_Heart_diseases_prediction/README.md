@@ -1,8 +1,8 @@
 
-# Cancer Disease Prediction Project
+# Heart Disease Prediction Project
 
 ## Overview
-This project aims to predict cancer disease using machine learning techniques. Cancer is a complex disease characterized by the uncontrolled growth and spread of abnormal cells. Early detection of cancer can significantly improve treatment outcomes and patient survival rates. This project leverages machine learning algorithms to predict the likelihood of cancer based on relevant features.
+This project aims to predict heart disease using machine learning techniques. Heart disease is a leading cause of death globally, and early detection is crucial for effective treatment and prevention. This project leverages machine learning algorithms to predict the likelihood of heart disease based on relevant features.
 
 ## Dataset
 The dataset used for this project is the [Heart Disease UCI dataset](https://www.kaggle.com/datasets/bhagyashreebai/heart-diseases-uci) from the UCI Machine Learning Repository. It contains various attributes such as age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, and other factors related to heart health.
@@ -16,9 +16,7 @@ The dataset used for this project is the [Heart Disease UCI dataset](https://www
 
 4. **Model Evaluation**: The trained Logistic Regression model is evaluated using various performance metrics such as accuracy, precision, recall, and F1-score. Model evaluation helps assess the model's ability to correctly predict cancer cases.
 
-5. **Data Standardization**: Standardization is applied to the features to ensure that they have a mean of 0 and a standard deviation of 1. Standardizing the data can improve the performance of the logistic regression model.
-
-6. **Predicting System**: Once the logistic regression model is trained and evaluated, a predicting system is created to allow users to input new data and obtain predictions regarding the presence or absence of cancer.
+5. **Predicting System**: Once the logistic regression model is trained and evaluated, a predicting system is created to allow users to input new data and obtain predictions regarding the presence or absence of cancer.
 
 ## Usage
 To use this project:
@@ -36,4 +34,4 @@ To use this project:
 
 
 ## Conclusion
-In conclusion, this project demonstrates the application of machine learning techniques for predicting cancer disease. By preprocessing the data, training a logistic regression model, and evaluating its performance, we can effectively classify patients based on their likelihood of having cancer. Early detection of cancer through predictive modeling has the potential to improve patient outcomes and reduce mortality rates.
+In conclusion, this project demonstrates the application of machine learning techniques for predicting heart disease. By preprocessing the data, training a logistic regression model, and evaluating its performance, we can effectively classify patients based on their likelihood of having heart disease. Early detection of heart disease through predictive modeling has the potential to improve patient outcomes and reduce mortality rates.
