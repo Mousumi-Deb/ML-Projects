@@ -6,7 +6,7 @@ __pycache__/
 dataset/
 columns.json/
 bhp.csv
-data/
+**/data/
 
 
 # C extensions
