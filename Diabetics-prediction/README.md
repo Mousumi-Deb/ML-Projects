@@ -23,11 +23,11 @@ This project focuses on predicting the likelihood of diabetes in individuals bas
 6. **Model Saving and Loading**: The trained model is saved for future use and loaded for making predictions on new instances.
 
 ## Key Findings
-1. **The dataset comprises essential health attributes such as pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age.
-2. **Through exploratory data analysis, we observed variations in these attributes among individuals with and without diabetes, highlighting their significance in disease prediction.
-3. **Preprocessing steps, including handling missing values, standardizing numerical features, and splitting the data into training and testing sets, were crucial for model training and evaluation.
-4. **We trained a Support Vector Machine (SVM) classifier with a linear kernel on the standardized data, achieving respectable accuracy scores on both training and testing datasets.
-5. **A prediction system was developed to classify new instances into diabetic and non-diabetic categories, enabling proactive health management and intervention.
+1. The dataset comprises essential health attributes such as pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age.
+2. Through exploratory data analysis, we observed variations in these attributes among individuals with and without diabetes, highlighting their significance in disease prediction.
+3. Preprocessing steps, including handling missing values, standardizing numerical features, and splitting the data into training and testing sets, were crucial for model training and evaluation.
+4. We trained a Support Vector Machine (SVM) classifier with a linear kernel on the standardized data, achieving respectable accuracy scores on both training and testing datasets.
+5. A prediction system was developed to classify new instances into diabetic and non-diabetic categories, enabling proactive health management and intervention.
 
 ## Usage
 1. Ensure Python and required libraries are installed.
